@@ -1,6 +1,6 @@
 # Gerador de CPF
 
-Durante o trabalho me desafiaram a montar um gerador de cpf, e como o calculo é simples aqui está.
+Durante o trabalho me desafiaram a montar um gerador de cpf, e como o calculo é simples, aqui está o gerador.
 
 Pra quem não sabe o calculo é assim
 Vamos supor que o cpf é 475.426.123-28
