@@ -16,6 +16,8 @@ Logo seria, (11x4)+(10x7)+(9x5)+(8x4)+(7x2)+(6x6)+(5x1)+(4x2)+(3x3)+(2x2) = 267,
 
 Passo 4 - Verificar se o digitos verificadores do cpf é igual ao valor obtido
 
+Com isso, é só gerar 9 números aleatorios e descobrir os digitos verificadores
+
 Ah e vale comentar que o ante-penultimo digito do CPF (xxx.xxx.xx8-xx) é o estado que ele foi emitido conforme:
 - 0 = Rio Grande do Sul
 - 1 = Distrito Federal, Goiás, Mato Grosso, Mato Grosso do Sul e Tocantins
